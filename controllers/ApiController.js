@@ -17,7 +17,9 @@ function index(req, res) {
       });
   } else {
     // specific search data
-    Got.find({ name: { $regex: /^query$/i } })
+    let queryData = `.*${query}.*`;
+    let regex = new RegExp(queryData, 'i');
+    Got.find({ name: regex })
       .then((data) => {
         res.send(data);
       })
