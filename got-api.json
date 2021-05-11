@@ -1,0 +1,263 @@
+{
+  "characters": [
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/674/825/169/tv-show-game-of-thrones-peter-dinklage-tyrion-lannister-hd-wallpaper-preview.jpg",
+      "name": "Tyrion lanister",
+      "house": "Lanister",
+      "quotes": "That’s what I do: I drink and I know things.",
+      "status": "Alive"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/474/430/502/game-of-thrones-daenerys-targaryen-wallpaper-preview.jpg",
+      "name": "Daenerys Targaryen",
+      "house": "Targaryen",
+      "quotes": "Fire cannot kill a dragon",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/474/430/502/game-of-thrones-daenerys-targaryen-wallpaper-preview.jpg",
+      "name": "Jon Snow",
+      "house": "Targaryen",
+      "quotes": "If I fall, don't bring me back",
+      "status": "Alive"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/423/124/1011/game-of-thrones-cersei-lannister-lena-headey-wallpaper-preview.jpg",
+      "name": "Cersei Lannister",
+      "house": "Lanister",
+      "quotes": "When you play the game of thrones, you win or you die. There is no middle ground.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/832/743/692/tv-show-game-of-thrones-arya-stark-maisie-williams-hd-wallpaper-preview.jpg",
+      "name": "Arya Stark",
+      "house": "Stark",
+      "quotes": "Nothing isn’t better or worse than anything. Nothing is just nothing",
+      "status": "Alive"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/822/344/34/tv-show-game-of-thrones-jaime-lannister-nikolaj-coster-waldau-wallpaper-preview.jpg",
+      "name": "Jaime Lanister",
+      "house": "Lanister",
+      "quotes": "The things I do for love.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/733/797/109/game-of-thrones-sean-bean-tv-series-eddard-ned-stark-swords-house-stark-1066x1600-entertainment-tv-series-hd-art-wallpaper-preview.jpg",
+      "name": "Ned Stark",
+      "house": "Stark",
+      "quotes": "The man who passes the sentence should swing the sword.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/243/187/593/tv-show-game-of-thrones-charles-dance-tywin-lannister-wallpaper-preview.jpg",
+      "name": "Tywin Lannister",
+      "house": "Lanister",
+      "quotes": "A lion does not concern himself with the opinion of sheep.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/941/217/224/tv-show-game-of-thrones-conleth-hill-lord-varys-wallpaper-preview.jpg",
+      "name": "Varys The Spider",
+      "house": "Commoner",
+      "quotes": "A very small man can cast a very large shadow.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/615/213/254/tv-show-game-of-thrones-catelyn-stark-michelle-fairley-wallpaper-preview.jpg",
+      "name": "Catelyn Stark",
+      "house": "Stark",
+      "quotes": "Laughter is poison to fear.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/233/778/575/sansa-stark-sophie-turner-game-of-thrones-women-wallpaper-preview.jpg",
+      "name": "Sansa Stark",
+      "house": "Stark",
+      "quotes": "You're going to die tomorrow, Lord Bolton. Sleep well.",
+      "status": "Alive"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/297/4/1019/game-of-thrones-davos-seaworth-tv-wallpaper-preview.jpg",
+      "name": "Davos Seaworth",
+      "house": "Seaworth",
+      "quotes": "Nothing f*cks you harder than time",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/785/657/227/gwendoline-christie-brienne-of-tarth-game-of-thrones-armor-wallpaper-preview.jpg",
+      "name": "Brienne of Tarth",
+      "house": "Stark",
+      "quotes": "All I ever wanted was to fight for a lord I believed in. But the good lords are dead and the rest are monsters.",
+      "status": "Alive"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/870/532/36/tv-show-game-of-thrones-aidan-gillen-petyr-baelish-wallpaper-preview.jpg",
+      "name": "Petyr Littlefinger Baelish",
+      "house": "Commoner",
+      "quotes": "Chaos isn't a pit. Chaos is a ladder.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/121/836/911/tv-show-game-of-thrones-jack-gleeson-joffrey-baratheon-wallpaper-preview.jpg",
+      "name": "Joffrey Baratheon",
+      "house": "Baratheon",
+      "quotes": "Everyone is mine to torment. You’d do well to remember that you little monster.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/27/84/978/tv-show-game-of-thrones-bran-stark-isaac-hempstead-wright-hd-wallpaper-preview.jpg",
+      "name": "Bran Stark",
+      "house": "Stark",
+      "quotes": "Can a man still be brave if he’s afraid?",
+      "status": "Alive"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/82/379/772/armor-warrior-dog-game-of-thrones-wallpaper-preview.jpg",
+      "name": "The Hound",
+      "house": "Clegane",
+      "quotes": "I understand that if any more words come pouring out your c*nt mouth, I'm gonna have to eat every f*cking chicken in this room",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/608/435/790/carice-van-houten-melisandre-game-of-thrones-image-wallpaper-preview.jpg",
+      "name": "Melisandra",
+      "house": "Commoner",
+      "quotes": "The night is dark and full of terrors.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/735/49/299/tv-show-game-of-thrones-alfie-allen-theon-greyjoy-wallpaper-preview.jpg",
+      "name": "Theon Greyjoy",
+      "house": " Greyjoy",
+      "quotes": "I'm Not Fit To Rule.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/289/901/166/natalie-dormer-margaery-tyrell-brunette-wallpaper-preview.jpg",
+      "name": "Margaery Tyrell",
+      "house": "Tyrell",
+      "quotes": "I want to be the Queen",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/720/417/299/tv-show-game-of-thrones-bronn-game-of-thrones-jerome-flynn-wallpaper-preview.jpg",
+      "name": "Bronn",
+      "house": "Commoner",
+      "quotes": "There's no cure for being a c*nt.",
+      "status": "Alive"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/271/493/88/stannis-baratheon-game-of-thrones-image-wallpaper-preview.jpg",
+      "name": "Stannis Baratheon",
+      "house": "Baratheon",
+      "quotes": "Show too much kindness, people won’t fear you. If they don’t fear you, they don’t follow you.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/712/756/1015/tv-show-game-of-thrones-iain-glen-jorah-mormont-wallpaper-preview.jpg",
+      "name": "Jorah Mormont",
+      "house": "Mormont",
+      "quotes": "They’re dragons, Khaleesi. They can never be tamed. Not even by their mother.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/50/1019/605/tv-show-game-of-thrones-diana-rigg-olenna-tyrell-wallpaper-preview.jpg",
+      "name": "Olenna Tyrell",
+      "house": "Tyrell",
+      "quotes": "The world is overflowing with horrible things, but they’re all a tray of cakes next to death.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/2/954/486/game-of-thrones-ramsay-bolton-image-hd-wallpaper-preview.jpg",
+      "name": "Ramsay Bolton",
+      "house": "Bolton",
+      "quotes": "If you think this has a happy ending, you haven’t been paying attention.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/299/966/356/tv-show-game-of-thrones-richard-madden-robb-stark-wallpaper-preview.jpg",
+      "name": "Robb Stark",
+      "house": "Stark",
+      "quotes": "I've won every battle, but I'm losing this war.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/717/206/440/tv-show-game-of-thrones-robert-baratheon-hd-wallpaper-preview.jpg",
+      "name": " Robert Baratheon",
+      "house": "Baratheon",
+      "quotes": "I swear to you, sitting a throne is a thousand times harder than winning one.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/262/792/949/tv-show-game-of-thrones-oberyn-martell-pedro-pascal-wallpaper-preview.jpg",
+      "name": "Oberyn Martell",
+      "house": "Martell",
+      "quotes": "It's a big and beautiful world. Most of us live and die in the same corner where we were born and never get to see any of it",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/361/145/142/tv-show-game-of-thrones-david-bradley-walder-frey-wallpaper-preview.jpg",
+      "name": "Walder Frey",
+      "house": "Frey",
+      "quotes": "My king has married and I owe my new queen a wedding gift",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/397/877/74/tv-show-game-of-thrones-john-bradley-samwell-tarly-wallpaper-preview.jpg",
+      "name": "Samwell Tarly",
+      "house": "Tarly",
+      "quotes": "I read it in a book.",
+      "status": "Alive"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/768/800/889/ygritte-game-of-thrones-wallpaper-preview.jpg",
+      "name": "Ygritte",
+      "house": "FreeFolk",
+      "quotes": "You know nothing, Jon Snow.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/130/155/832/tv-show-game-of-thrones-night-king-game-of-thrones-hd-wallpaper-preview.jpg",
+      "name": "The Night King",
+      "house": "White Walkers",
+      "quotes": "Arrrrr.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/419/954/548/tv-show-game-of-thrones-gregor-clegane-wallpaper-preview.jpg",
+      "name": "Gregor Clegane",
+      "house": "Clegane",
+      "quotes": "I crushed her skull like this",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/1014/1004/992/kristofer-hivju-tormund-giantsbane-game-of-thrones-wallpaper-preview.jpg",
+      "name": "Tormund Giantsbane",
+      "house": "FreeFolk",
+      "quotes": "They call me 'Giantsbane.' Want to know why?",
+      "status": "Alive"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/799/472/997/tv-show-game-of-thrones-grey-worm-jacob-anderson-hd-wallpaper-preview.jpg",
+      "name": "Grey Worm",
+      "house": "Unsullied",
+      "quotes": "My people are not peaceful. We will protect you.",
+      "status": "Dead"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/417/245/140/tv-show-game-of-thrones-daniel-portman-podrick-payne-wallpaper-preview.jpg",
+      "name": "Podrick Payne",
+      "house": "Commoner",
+      "quotes": "You kept your vow",
+      "status": "Alive"
+    },
+    {
+      "img": "https://c4.wallpaperflare.com/wallpaper/143/289/103/game-of-thrones-renly-baratheon-wallpaper-preview.jpg",
+      "name": "Renly Baratheon",
+      "house": "Baratheon",
+      "quotes": "I don't like you, Lord Baelish. I don't like your face.",
+      "status": "Dead"
+    }
+  ]
+}
